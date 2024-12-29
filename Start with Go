@@ -1,6 +1,17 @@
-Why Go ===>>
-  1. Efficient compilation
-  2. Efficient execution
-  3. Ease of programming
+🔴 Why Go ===>>
+    1. Efficient compilation
+    2. Efficient execution
+    3. Ease of programming
+
+🔴 Basic Go Syntax ===>>
+
+    package main
+  
+    import "fmt"
+  
+    func main() {
+  	fmt.Println("Hello, 😇")
+    }
+
 
 
