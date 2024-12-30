@@ -13,5 +13,11 @@
   	fmt.Println("Hello, 😇")
     }
 
+🔴 Statically typed ===>
+    A statically typed language is a type of programming language in which 
+    variable types are explicitly declared and determined at compile time 
+    rather than at runtime. This means that the type of every variable is 
+    known and checked by the compiler before the program is run, which can 
+    help catch type-related errors early in the development process.
 
 
